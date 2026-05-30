@@ -73,7 +73,3 @@ Each entry contains a virtual address and an operation:
 - `R`: read operation
 - `W`: write operation
 
-## Resume Summary
-
-This project demonstrates systems programming fundamentals, algorithm implementation, modular Python design, interactive data visualization, and test-driven validation of core OS memory-management behavior.
-
